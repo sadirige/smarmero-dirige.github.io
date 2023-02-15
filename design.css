@@ -6,7 +6,7 @@
 
 
 h1 {
-    color: blue;
+    color: rgb(37, 37, 119);
     text-align: center;
     text-transform: capitalize;
 
@@ -21,6 +21,6 @@ body {
     height: 150vh;
     justify-content: center;
     align-items: flex-start;
-    background: rgba(0, 0, 0, 0.925);
+    background: rgba(187, 111, 111, 0.925);
 
 }
